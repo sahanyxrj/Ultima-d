@@ -1,0 +1,18 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/B9FB331B-E1FB-4917-91A3-E090C6E27EC2/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=56219:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/B9FB331B-E1FB-4917-91A3-E090C6E27EC2/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/Sahany/IdeaProjects/Assignment 6/out/production/Assignment 6" Main
+worldTime = 168260271
+It is 9:51 on day 48 of the year 321.
+Trammel is in day 1 of its 9 day phase.
+Felucca is in day 4 of its 14 day phase.
+
+worldTime = 27364375
+It is 0:55 on day 24 of the year 53.
+Trammel is in day 5 of its 9 day phase.
+Felucca is in day 6 of its 14 day phase.
+
+worldTime = 67294091
+It is 0:11 on day 13 of the year 129.
+Trammel is in day 5 of its 9 day phase.
+Felucca is in day 1 of its 14 day phase.
+
+
+Process finished with exit code 0
